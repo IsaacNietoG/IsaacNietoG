@@ -1,7 +1,7 @@
 <h1 align="center">Hi :D, I'm Isaac Nieto (mrtaichi)</h1>
 <h3 align="center">A fourth semester CS student with a passion for cibersecurity, software engineering and hardware.</h3>
 
-- 🔭 I’m currently working on [Next Project Builder](https://github.com/reitmas32/Next)
+- 🔭 I’m currently working on [OpenRES Remote Environment Storage](https://github.com/IsaacNietoG/OpenRES)
 
 - 🌱 I’m currently learning **React Programming Language, and Security Engineer Path**
 
