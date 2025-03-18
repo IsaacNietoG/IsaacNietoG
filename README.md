@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [OpenRES Remote Environment Storage](https://github.com/IsaacNietoG/OpenRES)
 
-- 🌱 I’m currently learning **React Programming Language, and Security Engineer Path**
+- 🌱 I’m currently learning **Golang Programming Language, and Security Engineer Path**
 
 - 👯 I’m looking to collaborate on [Android Open Source Project](https://github.com/AOSP-15-Dev)
 
