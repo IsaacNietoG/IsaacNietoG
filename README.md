@@ -1,9 +1,9 @@
 <h1 align="center">Hi :D, I'm Isaac Nieto (mrtaichi)</h1>
 <h3 align="center">A fourth semester CS student with a passion for cibersecurity, software engineering and hardware.</h3>
 
-- 🔭 I’m currently working on [OpenRES Remote Environment Storage](https://github.com/IsaacNietoG/OpenRES)
+- 🔭 I’m currently working on Training for HackMex 2025 :D
 
-- 🌱 I’m currently learning **Golang Programming Language, and DevSecOps Path in TryHackMe**
+- 🌱 I’m currently learning **Golang Programming Language, and Bug Bounty Hunter Path in Hack The Box Academy**
 
 - 👯 I’m looking to collaborate on [Android Open Source Project](https://github.com/AOSP-15-Dev)
 
