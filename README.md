@@ -1,7 +1,5 @@
 <h1 align="center">Hi :D, I'm Isaac Nieto (mrtaichi)</h1>
-<h3 align="center">A fourth semester CS student with a passion for cibersecurity, software engineering and hardware.</h3>
-
-- 🔭 I’m currently working on Training for HackMex 2025 :D
+<h3 align="center">A fifth semester CS student with a passion for cibersecurity, software engineering and hardware.</h3>
 
 - 🌱 I’m currently learning **Golang Programming Language, and Bug Bounty Hunter Path in Hack The Box Academy**
 
