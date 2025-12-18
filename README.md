@@ -7,9 +7,9 @@
 
 - 🤝 I’m looking for help with **Making friends and study groups :D**
 
-- 👨‍💻 All of my projects are available at [IsaacNietoG.github.io/portfolio](IsaacNietoG.github.io/portfolio)
+- 👨‍💻 All of my projects are available at [IsaacNietoG.github.io/portfolio](https://IsaacNietoG.github.io/portfolio)
 
-- 📝 I regularly write articles on [IsaacNietoG.github.io/blog](IsaacNietoG.github.io/blog)
+- 📝 I regularly write articles on [IsaacNietoG.github.io/blog](https://IsaacNietoG.github.io/blog)
 
 - 📫 How to reach me **Telegram: @mrtaichi**
 
